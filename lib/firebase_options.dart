@@ -43,11 +43,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions webProd = FirebaseOptions(
-      apiKey: "AIzaSyCjSSr3jUjHGexCBOUeL5SCImsp657xtrU",
-      authDomain: "pizzaappmain-e37cc.firebaseapp.com",
-      projectId: "pizzaappmain-e37cc",
-      storageBucket: "pizzaappmain-e37cc.appspot.com",
-      messagingSenderId: "459525041055",
-      appId: "1:459525041055:web:df88e468a3939c3a8f2baa",
-      measurementId: "G-YQSRHWDBWX");
+      apiKey: "",
+      authDomain: "",
+      projectId: "",
+      storageBucket: "",
+      messagingSenderId: "",
+      appId: "",
+      measurementId: "");
 }
